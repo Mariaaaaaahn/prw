@@ -9,10 +9,13 @@
 <body>
 
     
-<h1>convoque os gays</h1>
-<?php 
+<h1>oi</h1>
+<?php
+$ola= Olá Mundo;
+
+
 //aqui é php
-echo"<h1>ola meus lindes!<h1>";
+echo"$ola";
 
 
 
